@@ -1,0 +1,18 @@
+#host_label {
+    font-weight:400;
+    font-size:24px;
+    color:#0D1DE0;
+}
+
+.custom_button {
+    padding:5px;
+    border-radius:8px;
+    background-color:#fbe739ab;
+    height:30px;
+}
+
+#cmd_output {
+    font-weight: 200;
+    font-size: 14px;
+    color:rgb(255, 128, 0);
+}

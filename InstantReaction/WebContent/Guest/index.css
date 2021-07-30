@@ -1,0 +1,17 @@
+#guest_label {
+	font-weight:400;
+	font-size:24px;
+	color:#00BB42;
+}
+
+#guest_login {
+    padding:5px;
+    border-radius:8px;
+    background-color:#fbe739ab;
+}
+
+#cmd_output {
+    font-weight: 200;
+    font-size: 14px;
+    color:rgb(255, 128, 0);
+}

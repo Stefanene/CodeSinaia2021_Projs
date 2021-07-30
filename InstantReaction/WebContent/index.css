@@ -1,0 +1,51 @@
+@charset "ISO-8859-1";
+
+body {
+	font-family:Helvetica,sans-serif;
+/*	font-size:48px;*/
+}
+
+button {
+    height:20px;
+    width:120px;	
+}
+
+.custom_button {
+	padding:5px;
+	border-radius:8px;
+	background-color:#fbe739ab;
+	height:30px;
+}
+
+#cmd_output {
+	font-weight: 200;
+	font-size: 14px;
+	color:rgb(255, 128, 0);
+}
+
+/* styles for the status table at the bottom of the page:
+ * .status-table: style for the entire table
+ * .status-th: style for the header row
+ * .status-host-tr: style for the host rows
+ * .status-guest-tr: style for the guest rows
+ */
+.status-table {
+    text-align: left;
+    font-size: 12px;
+    border: 1px solid #dfdfdf;
+    border-collapse: collapse;
+}
+
+.status-th {
+    background-color: rgb(198, 253, 239);
+    border: 2px solid #dfdfdf;
+}
+
+.status-host-tr {
+    font-weight: bold;
+    border: 1px solid #dfdfdf;
+}
+
+.status-guest-tr {
+    border: 1px solid #dfdfdf;
+}

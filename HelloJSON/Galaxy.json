@@ -1,0 +1,44 @@
+{
+    "stars": [
+        {
+            "hasLife": true,
+            "age": 4603000000.0,
+            "distanceToEarth": 8765432112,
+            "planets": [
+                {
+                    "name": "Mercury"
+                },
+                {
+                    "name": "Venus"
+                },
+                {
+                    "name": "Earth"
+                },
+                {
+                    "name": "Mars"
+                },
+                {
+                    "name": "Jupiter"
+                },
+                {
+                    "name": "Saturn"
+                },
+                {
+                    "name": "Uranus"
+                },
+                {
+                    "name": "Neptune"
+                }
+            ]
+        },
+        {
+            "age": 987600000000.0,
+            "distanceToEarth": 9876543456787567,
+            "planets": [
+                {
+                    "name": "Pluto"
+                }
+            ]
+        }
+    ]
+}
